@@ -1,0 +1,44 @@
+### created on 5.31.2017 ###
+
+### md5sums ###
+
+d41d8cd98f00b204e9800998ecf8427e  ./checksums.txt
+84dcc94da3adb52b53ae4fa38fe49e5d  ./LICENSE
+769811f21dfccf354fe6e9b7c02ef19f  ./litebook-psmouse-enable_1.0-1_all.deb
+14244eb4ba3b8f770d9dcb3aa5028ad0  ./litebook-psmouse-enable.service
+a8f50c96b38f60f0dba375ff6acb2972  ./litebook-psmouse-enable.sh
+9b734d0b86362d51bc31afb1687fc696  ./README.md
+bfeb9fcd515129a32607346a7b5992fb  ./touchpad.conf
+
+
+### sha1sums ###
+
+51b0d17495f7799fe48dfa1af57cee3374c63f85  ./checksums.txt
+12d81f50767d4e09aa7877da077ad9d1b915d75b  ./LICENSE
+c9249f36086d124f547360d38f86190ae3cec154  ./litebook-psmouse-enable_1.0-1_all.deb
+0056d426d34bdf1a3662328e34753054d4ede3a0  ./litebook-psmouse-enable.service
+be2ff0fd86fef801a55e9935bb35e52c7cca9e7f  ./litebook-psmouse-enable.sh
+020e9819abd5d5651cd9d714a4cff6306b71d993  ./README.md
+ba73d862c1d8c2aaf666a0380856d3f40d44a1e7  ./touchpad.conf
+
+
+### sha256sums ###
+
+92922a177443edab342d4b39328820609c08e0d7b2d1c6819f73a0b9812c04dd  ./checksums.txt
+589ed823e9a84c56feb95ac58e7cf384626b9cbf4fda2a907bc36e103de1bad2  ./LICENSE
+baad156bc492d440c64783fba74cc17ec3b4b29c46e68b1ec6e9b4a7c0e8d811  ./litebook-psmouse-enable_1.0-1_all.deb
+7a6edb1cdb22798a2923cb79c18efb85cd23f2bd2802e939f9bfdca9f0c0d95b  ./litebook-psmouse-enable.service
+3afc2d5885b092824dbf2343e49c346934bd85b16e5f285ffb8c8dc394a2fcfe  ./litebook-psmouse-enable.sh
+207e2bfc4b07b65090fd73eead98565a6bd018d5b2634e9e3e86baa10a23bd85  ./README.md
+cd52f1ffbf3df6663b14ea7bcb4c196f40478d6a5cb6c772c082af46ddc5e297  ./touchpad.conf
+
+
+### sha512sums ###
+
+7b57b63d16d4f6bbf55834ca5e34791fdd238505abe2bcfe1ffcfc9f081539e8c5707b44890f79acd3ebeaa1ae8a9a3097487735eb348b3c9d2e431abf76ea55  ./checksums.txt
+552aec8d120c9d931769f6a6b794716fce978d0055715de21746dc0f064f4a0f72b6be42d4828b98a56715b23fa427c1f66fd20aca0ef1751cc384c420db1605  ./LICENSE
+8ee7ac3d3c230a256e32595406811f2fb124bd3a4f44bfe009ce45105628642a376f70239dc1cde9650c59383d0e243e1707cded7b68c1cbe24fde9715e0b8ed  ./litebook-psmouse-enable_1.0-1_all.deb
+beed72e3b848d42bcbb8d1bc76898f970ca5f1e4c021217ca95316ce7197fec59449848fbfcc0a1e08569a4beeb5b7e2007081634c3d1803af57754763639d1f  ./litebook-psmouse-enable.service
+bf5dcdf631ce952695240004bfb1c582341be7e1c0e509da41c27abbfa290cf09428c086d6db0a79c0f5c40d91308ef860cd1704b83b3d46fc1aebf4683f164c  ./litebook-psmouse-enable.sh
+7adfc6cc6baa05e929d5d890489445c67ec1869577d1d00afa3c4239160caa655b707b64215421d1e772370def19d925c8d22b3ead8a80b9de3a6c9418eede56  ./README.md
+7a403a235b80f068e722808bbe6c21d885bff7c6c6f296566a14afac5a1bfe296ea37557dc0fb80e2e736bb3d90b1693d4a16210c1fd9dc4e590edefed1cdc84  ./touchpad.conf
