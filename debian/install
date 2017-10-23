@@ -1,0 +1,2 @@
+litebook-psmouse-enable.sh etc/litebook-scripts/modules
+touchpad.conf /etc/modprobe.d

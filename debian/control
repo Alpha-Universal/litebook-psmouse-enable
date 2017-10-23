@@ -1,0 +1,17 @@
+Source: litebook-psmouse-enable
+Section: admin
+Priority: optional
+Maintainer: Richard Buchanan II <richard.buchananii@posteo.net>
+Build-Depends: debhelper (>= 9), dh-systemd (>= 1.5)
+Standards-Version: 3.9.6
+Homepage: https://github.com/Alpha-Universal/litebook-psmouse-enable
+
+Package: litebook-psmouse-enable
+Architecture: all
+Depends: ${misc:Depends}
+Description: Litebook v1 scripts to enable the psmouse module
+ This package includes a shell script, systemd unit file, and
+ conf file to enable the psmouse module with proto=imps upon 
+ installation, and at each startup thereafter. 
+ .
+ This package is required for proper touchpad functionality.

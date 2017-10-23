@@ -1,0 +1,12 @@
+[Unit]
+Description=Activate psmouse module at startup for Litebook v1
+
+[Service]
+Type=simple
+ExecStart=/etc/litebook-scripts/modules/litebook-psmouse-enable.sh
+StandardOutput=null
+StandardError=journal
+
+[Install]
+WantedBy=default.target
+Alias=litebook-psmouse-enable.service
