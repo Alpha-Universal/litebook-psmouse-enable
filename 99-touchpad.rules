@@ -1,0 +1,2 @@
+ACTION=="add|change", KERNEL=="event?[2-9]", SUBSYSTEM=="input", ATTRS{name}=="CyPS/2 Cypress Trackpad", ATTRS{id_for_seat}=="input-platform-i8042-serio-1", ATTRS{phys}=="isa0060/serio1/input0"
+ENV{ID_INPUT_TOUCHSCREEN}=""
